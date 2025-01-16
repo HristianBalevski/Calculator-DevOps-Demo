@@ -1,3 +1,5 @@
+# Demo calculator
+
 def calculator():
     print("Welcome to the Calculator!")
     print("Select an operation to perform:")
