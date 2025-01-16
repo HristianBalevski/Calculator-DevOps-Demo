@@ -1,4 +1,5 @@
-# Demo calculator
+# Demo calculator for practice Git commands.
+
 
 def calculator():
     print("Welcome to the Calculator!")
